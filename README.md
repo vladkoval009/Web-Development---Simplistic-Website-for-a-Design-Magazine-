@@ -1,1 +1,1 @@
-Web Development - Simplistic Website for a Design Magazine 
+Web Development - Architectual Definition (Bootstrap)
